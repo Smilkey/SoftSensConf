@@ -1,0 +1,46 @@
+E:\OOP\Arbeidskrav\SoftSenseConf\bin\Debug\SoftSenseConf.exe.config
+E:\OOP\Arbeidskrav\SoftSenseConf\bin\Debug\SoftSenseConf.exe
+E:\OOP\Arbeidskrav\SoftSenseConf\bin\Debug\SoftSenseConf.pdb
+E:\OOP\Arbeidskrav\SoftSenseConf\obj\Debug\SoftSenseConf.csprojAssemblyReference.cache
+E:\OOP\Arbeidskrav\SoftSenseConf\obj\Debug\SoftSenseConf.Properties.Resources.resources
+E:\OOP\Arbeidskrav\SoftSenseConf\obj\Debug\SoftSenseConf.csproj.GenerateResource.cache
+E:\OOP\Arbeidskrav\SoftSenseConf\obj\Debug\SoftSenseConf.csproj.CoreCompileInputs.cache
+E:\OOP\Arbeidskrav\SoftSenseConf\obj\Debug\SoftSenseConf.exe
+E:\OOP\Arbeidskrav\SoftSenseConf\obj\Debug\SoftSenseConf.pdb
+E:\OOP\Arbeidskrav\SoftSenseConf\obj\Debug\SoftSenseConf.FormMainSoftSense.resources
+D:\OOP\Arbeidskrav\SoftSenseConf\bin\Debug\SoftSenseConf.exe.config
+D:\OOP\Arbeidskrav\SoftSenseConf\bin\Debug\SoftSenseConf.exe
+D:\OOP\Arbeidskrav\SoftSenseConf\bin\Debug\SoftSenseConf.pdb
+D:\OOP\Arbeidskrav\SoftSenseConf\obj\Debug\SoftSenseConf.csprojAssemblyReference.cache
+D:\OOP\Arbeidskrav\SoftSenseConf\obj\Debug\SoftSenseConf.FormMainSoftSense.resources
+D:\OOP\Arbeidskrav\SoftSenseConf\obj\Debug\SoftSenseConf.Properties.Resources.resources
+D:\OOP\Arbeidskrav\SoftSenseConf\obj\Debug\SoftSenseConf.csproj.GenerateResource.cache
+D:\OOP\Arbeidskrav\SoftSenseConf\obj\Debug\SoftSenseConf.csproj.CoreCompileInputs.cache
+D:\OOP\Arbeidskrav\SoftSenseConf\obj\Debug\SoftSenseConf.exe
+D:\OOP\Arbeidskrav\SoftSenseConf\obj\Debug\SoftSenseConf.pdb
+E:\OOP\Arbeidskrav\Arbeidskrav 1\SoftSenseConf\bin\Debug\SoftSenseConf.exe.config
+E:\OOP\Arbeidskrav\Arbeidskrav 1\SoftSenseConf\bin\Debug\SoftSenseConf.exe
+E:\OOP\Arbeidskrav\Arbeidskrav 1\SoftSenseConf\bin\Debug\SoftSenseConf.pdb
+E:\OOP\Arbeidskrav\Arbeidskrav 1\SoftSenseConf\obj\Debug\SoftSenseConf.csprojAssemblyReference.cache
+E:\OOP\Arbeidskrav\Arbeidskrav 1\SoftSenseConf\obj\Debug\SoftSenseConf.FormMainSoftSense.resources
+E:\OOP\Arbeidskrav\Arbeidskrav 1\SoftSenseConf\obj\Debug\SoftSenseConf.PasswordForm.resources
+E:\OOP\Arbeidskrav\Arbeidskrav 1\SoftSenseConf\obj\Debug\SoftSenseConf.Properties.Resources.resources
+E:\OOP\Arbeidskrav\Arbeidskrav 1\SoftSenseConf\obj\Debug\SoftSenseConf.csproj.GenerateResource.cache
+E:\OOP\Arbeidskrav\Arbeidskrav 1\SoftSenseConf\obj\Debug\SoftSenseConf.csproj.CoreCompileInputs.cache
+E:\OOP\Arbeidskrav\Arbeidskrav 1\SoftSenseConf\obj\Debug\SoftSenseConf.exe
+E:\OOP\Arbeidskrav\Arbeidskrav 1\SoftSenseConf\obj\Debug\SoftSenseConf.pdb
+D:\OOP\Arbeidskrav\Arbeidskrav 1\SoftSenseConf\bin\Debug\SoftSenseConf.exe.config
+D:\OOP\Arbeidskrav\Arbeidskrav 1\SoftSenseConf\bin\Debug\SoftSenseConf.exe
+D:\OOP\Arbeidskrav\Arbeidskrav 1\SoftSenseConf\bin\Debug\SoftSenseConf.pdb
+D:\OOP\Arbeidskrav\Arbeidskrav 1\SoftSenseConf\obj\Debug\SoftSenseConf.csprojAssemblyReference.cache
+D:\OOP\Arbeidskrav\Arbeidskrav 1\SoftSenseConf\obj\Debug\SoftSenseConf.FormMainSoftSense.resources
+D:\OOP\Arbeidskrav\Arbeidskrav 1\SoftSenseConf\obj\Debug\SoftSenseConf.PasswordForm.resources
+D:\OOP\Arbeidskrav\Arbeidskrav 1\SoftSenseConf\obj\Debug\SoftSenseConf.Properties.Resources.resources
+D:\OOP\Arbeidskrav\Arbeidskrav 1\SoftSenseConf\obj\Debug\SoftSenseConf.csproj.GenerateResource.cache
+D:\OOP\Arbeidskrav\Arbeidskrav 1\SoftSenseConf\obj\Debug\SoftSenseConf.csproj.CoreCompileInputs.cache
+D:\OOP\Arbeidskrav\Arbeidskrav 1\SoftSenseConf\obj\Debug\SoftSenseConf.exe
+D:\OOP\Arbeidskrav\Arbeidskrav 1\SoftSenseConf\obj\Debug\SoftSenseConf.pdb
+E:\OOP\Arbeidskrav\Arbeidskrav 1\SoftSenseConf\obj\Debug\SoftSenseConf.AboutBox.resources
+D:\OOP\Arbeidskrav\Arbeidskrav 1\SoftSenseConf\obj\Debug\SoftSenseConf.AboutBox.resources
+E:\OOP\Arbeidskrav\Arbeidskrav 1\SoftSenseConf\obj\Debug\SoftSenseConf.csproj.ResolveComReference.cache
+D:\OOP\Arbeidskrav\Arbeidskrav 1\SoftSenseConf\obj\Debug\SoftSenseConf.csproj.ResolveComReference.cache

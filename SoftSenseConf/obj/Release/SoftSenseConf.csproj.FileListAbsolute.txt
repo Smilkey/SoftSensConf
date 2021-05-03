@@ -1,0 +1,12 @@
+D:\OOP\Arbeidskrav\Arbeidskrav 1\SoftSenseConf\bin\Release\SoftSenseConf.exe.config
+D:\OOP\Arbeidskrav\Arbeidskrav 1\SoftSenseConf\bin\Release\SoftSenseConf.exe
+D:\OOP\Arbeidskrav\Arbeidskrav 1\SoftSenseConf\bin\Release\SoftSenseConf.pdb
+D:\OOP\Arbeidskrav\Arbeidskrav 1\SoftSenseConf\obj\Release\SoftSenseConf.csproj.ResolveComReference.cache
+D:\OOP\Arbeidskrav\Arbeidskrav 1\SoftSenseConf\obj\Release\SoftSenseConf.AboutBox.resources
+D:\OOP\Arbeidskrav\Arbeidskrav 1\SoftSenseConf\obj\Release\SoftSenseConf.FormMainSoftSense.resources
+D:\OOP\Arbeidskrav\Arbeidskrav 1\SoftSenseConf\obj\Release\SoftSenseConf.PasswordForm.resources
+D:\OOP\Arbeidskrav\Arbeidskrav 1\SoftSenseConf\obj\Release\SoftSenseConf.Properties.Resources.resources
+D:\OOP\Arbeidskrav\Arbeidskrav 1\SoftSenseConf\obj\Release\SoftSenseConf.csproj.GenerateResource.cache
+D:\OOP\Arbeidskrav\Arbeidskrav 1\SoftSenseConf\obj\Release\SoftSenseConf.csproj.CoreCompileInputs.cache
+D:\OOP\Arbeidskrav\Arbeidskrav 1\SoftSenseConf\obj\Release\SoftSenseConf.exe
+D:\OOP\Arbeidskrav\Arbeidskrav 1\SoftSenseConf\obj\Release\SoftSenseConf.pdb
